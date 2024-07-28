@@ -44,25 +44,25 @@ Profile: [Linktree](https://linktr.ee/satendersingh)
 
 #### Educational Background
 ----
-Advanced Diploma in Computer with CompTIA A++, IFC++ Data+, Network+ & More
+- Advanced Diploma in Computer with CompTIA A++, IFC++ Data+, Network+ & More
 2023 – 2024
 
-Fanshawe College
+- Fanshawe College
 Diploma of Education, Business, Management, Marketing, and Related Support Services
 Sep 2021 - Apr 2023
 Grade: A+
 
-Hartron Skill Center - India
+- Hartron Skill Center - India
 Diploma of Education, Computer Programming, Specific Applications
 Aug 2018 - Jul 2019
 Grade: A+
 
-Government Senior Secondary School (GSSS) Kaithal
+- Government Senior Secondary School (GSSS) Kaithal
 12th Grade, Physics, Chemistry, Mathematics, Computer,
 Jul 2017 - May 2018
 Grade: A+
 
-Government Senior Secondary School (GSSS) Kaithal
+- Government Senior Secondary School (GSSS) Kaithal
 10th Grade, Physics, Chemistry, Mathematics
 Jul 2016 - May 2017
 Grade: A+
@@ -147,6 +147,9 @@ run;
   - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, NLP, NLTK, XAI)
   - SQL (MySQL, Oracle Database, AWS)
   - R (ggplot2, dplyr, tidyr)
+  - library(ggplot2)
+  - library(dplyr)
+  - library(tidyr)
   - SAS, SPSS
   - -----------------
 - **Data Visualization Tools:** Power BI, Excel, Tableau, Cognos Analytics
@@ -158,48 +161,54 @@ run;
 
 ---
 **Professional Experience**
+  **self.experience** = [
+            "Data Analytics Specialist Intern at McKinsey & Company",
+            "Computer System Operator at Ideal Team Group",
+            "Technical Support Associate at Lenovo India"
+        ]  
 
+        
 **Security Operations Analyst - Workplace Safety and Insurance Board (WSIB), Paladin Security Group Ltd**
 October 2023 – Present
 
-Proficient in C-Cure 9000 for front desk operations, access management, and troubleshooting.
-Tools: Power BI, Google Workspace, Microsoft Office Suite.
-Security Database: Risk assessments, management, and physical & IT security protocols.
-Network Security: Data protection, conducting error assessments.
-Communication: Effective stakeholder management and response to security inquiries.
+- Proficient in C-Cure 9000 for front desk operations, access management, and troubleshooting.
+- Tools: Power BI, Google Workspace, Microsoft Office Suite.
+- Security Database: Risk assessments, management, and physical & IT security protocols.
+- Network Security: Data protection, conducting error assessments.
+- Communication: Effective stakeholder management and response to security inquiries.
 
 **Data Analytics Specialist - Intern McKinsey & Company**
 2022 – 2023
 
-Conducted ETL, data cleaning, and preprocessing.
-Created customer segmentation models using Python and R.
-Developed visualizations and reports in Excel and Power BI.
-Automated data collection processes, improving efficiency by 20%.
-Collaborated with marketing teams to resolve data issues.
-Designed interactive Power BI dashboards for HR metrics.
+- Conducted ETL, data cleaning, and preprocessing.
+- Created customer segmentation models using Python and R.
+- Developed visualizations and reports in Excel and Power BI.
+- Automated data collection processes, improving efficiency by 20%.
+- Collaborated with marketing teams to resolve data issues.
+- Designed interactive Power BI dashboards for HR metrics.
 
 **Computer System Operator - Ideal Team Group, India**
 Aug 2018 – Feb 2021
 
-Maintained and administered LANs, WANs, and computer workstations.
-Monitored system performance and conducted hardware/software maintenance.
-Supported system upgrades and integration.
-Provided technical support and problem-solving services.
+- Maintained and administered LANs, WANs, and computer workstations.
+- Monitored system performance and conducted hardware/software maintenance.
+- Supported system upgrades and integration.
+- Provided technical support and problem-solving services.
 
 **Commercial Security Specialist - Garda World at Canada Post (London)**
 
-Monitored sites and prevented security threats.
-Administered access procedures and visitor credentials.
-Utilized advanced CCTV systems for premises monitoring.
-Coordinated with law enforcement for security incidents.
+- Monitored sites and prevented security threats.
+- Administered access procedures and visitor credentials.
+- Utilized advanced CCTV systems for premises monitoring.
+- Coordinated with law enforcement for security incidents.
 
 **Technical Support Associate - Lenovo India, Dehradun, Uttarakhand, India (Remote)**
 Jan 2016 – Feb 2018
 
-Provided tech support for hardware and software issues.
-Diagnosed and resolved complex technical problems.
-Configured LAN/WAN setups and network connectivity.
-Conducted repairs and preventive maintenance.
+- Provided tech support for hardware and software issues.
+- Diagnosed and resolved complex technical problems.
+- Configured LAN/WAN setups and network connectivity.
+- Conducted repairs and preventive maintenance.
 
 ### Seeking Opportunities To
 
@@ -224,8 +233,8 @@ SELECT * FROM Satender Kumar
 WHERE Age > 23
 ORDER BY Kumar;
 
-library(ggplot2)
-library(dplyr)
-library(tidyr)
 
 #DataAnalyst #DataScience #Python #SQL #PowerBI #Tableau #DataVisualization #BusinessIntelligence #DataDrivenDecisions #MachineLearning #AI #ML
+
+    def thank_you_message(self):
+        print("\nThank you for reading and for your support!")
