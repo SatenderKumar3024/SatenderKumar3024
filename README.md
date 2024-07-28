@@ -18,14 +18,10 @@
 ### Key Strengths
 - ----------------------
   **- Certified Expertise:** 90+ industry-recognized certifications in DA, ML, AI, & IoT Expertise & So on. 
-            - Intermediate skills with CompTIA, Microsoft, Google, IBM, AWS.
-            - Certified Business Analysis Professional (CBAP)® and Certified Analytics Professional (CAP)®.
-          
   **- Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn SciPy, NLP, NLTK, XAI), SQL (MySQL, Oracle Database, AWS, etc), R (ggplot2, dplyr, tidyr) , SAS, SPSS.
   **- Data Viz Tools:** Power BI, Excel, Tableau, and Cognos Analytics 
   **- Statistical Analysis:** Hypothesis Testing, Distributions, and Regression ( EDA, CDA)
   **- Additional:** (SPSS, SAS), Git/GitHub), Cloud Platforms, Azure, Datalake, Werehouse, More 
-  
   **- Business Acumen:** Deep understanding of business objectives, aligning data insights & So on.
   **- Leadership:** Experienced in leading teams, mentoring analysts, and fostering a data-driven culture.
   **- Cloud & Infrastructure:** Expertise in Azure, data lakes, and data warehouses.
