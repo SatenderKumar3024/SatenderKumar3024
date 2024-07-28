@@ -46,15 +46,46 @@ Profile: [Linktree](https://linktr.ee/satendersingh)
   import nltk
   from nltk.corpus import stopwords
 ---
+**Python (Pandas, NumPy) **
+
+import pandas as pd
+import numpy as np
+
+# Create a pandas DataFrame
+data = {'Name': ['Satender Kumar'], 'Age': [23], 'Email': ['khushyanil@gmail.com']}
+df = pd.DataFrame(data)
+
+# Create a NumPy array
+data_np = np.array([['Satender Kumar', 23, 'khushyanil@gmail.com']])
+
+**R (dplyr) ** library(dplyr)
+
+# Create a data frame
+data <- data.frame(Name = "Satender Kumar", Age = 23, Email = "khushyanil@gmail.com")
+
+SQL (MySQL ) SQL
+INSERT INTO your_table (Name, Age, Email)
+VALUES ('Satender Kumar', 23, 'khushyanil@gmail.com');
+
+SAS
+data mydata;
+  length Name $ 20;
+  length Email $ 30;
+  input Name $ Age Email $;
+  datalines;
+Satender Kumar 23 khushyanil@gmail.com
+;
+run; 
+
 ### Key Strengths
 - **Certified Expertise:** 85+ industry-recognized certifications in Data Analysis, Machine Learning, AI, and IoT.
 - **Programming:**
-- 
+- ----------------------
   - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, NLP, NLTK, XAI)
   - SQL (MySQL, Oracle Database, AWS)
   - R (ggplot2, dplyr, tidyr)
   - SAS, SPSS
-  - 
+  - -----------------
 - **Data Visualization Tools:** Power BI, Excel, Tableau, Cognos Analytics
 - **Statistical Analysis:** Hypothesis Testing, Distributions, Regression (EDA, CDA)
 - **Additional Skills:** SPSS, SAS, Git/GitHub, Cloud Platforms, Azure, Data Lake, Data Warehouse
