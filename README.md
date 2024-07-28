@@ -42,27 +42,27 @@ Profile: [Linktree](https://linktr.ee/satendersingh)
 ----
 Advanced Diploma in Computer Applications A++, IFC++ & More
 2023 – 2024
-----
+
 Fanshawe College
 Diploma of Education, Business, Management, Marketing, and Related Support Services
 Sep 2021 - Apr 2023
 Grade: A+
------
+
 Hartron Skill Center - India
 Diploma of Education, Computer Programming, Specific Applications
 Aug 2018 - Jul 2019
 Grade: A+
-----
+
 Government Senior Secondary School (GSSS) Kaithal
-12th Grade, Physics, Chemistry, Mathematics, Computer IFA+, Biology
+12th Grade, Physics, Chemistry, Mathematics, Computer,
 Jul 2017 - May 2018
 Grade: A+
----
+
 Government Senior Secondary School (GSSS) Kaithal
 10th Grade, Physics, Chemistry, Mathematics
 Jul 2016 - May 2017
 Grade: A+
-----
+
 **Certifications & Specializations more the 90+ from ( CompTIA, Microsoft, Google, IBM, AWS, Azure, Linkedin **
 ----
 Google Advanced Data Analytics
@@ -86,7 +86,7 @@ Statics - (NASBA)
 Google Data Analytics
 Google Workspace Specialization
 Microsoft 365 Fundamentals Specialization
-----
+
 
 #### Technical Skills
 - **Programming Languages:** 
