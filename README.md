@@ -19,7 +19,7 @@
 - ----------------------
 **Certified Expertise:**
 - 90+ industry-recognized certifications in Data Analysis (DA), Machine Learning (ML), Artificial Intelligence (AI), and the Internet of Things (IoT).
-- 
+  
 **Programming:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, NLP, NLTK, XAI)
 - SQL (MySQL, Oracle Database, AWS, etc.)
