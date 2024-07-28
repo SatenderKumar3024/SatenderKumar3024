@@ -1,14 +1,4 @@
 ## 👋 Hi, I’m @SatenderKumar3024
-
-
-{
-  "name": "Satender Kumar",
-  "contact_information": {
-    "phone": "+1-226-637-6900",
-    "email": "khushyanil@gmail.com",
-    "address": "Canada Ontario"
-  },
-
   
 - 👀 I’m interested in data analysis, data visualization, and transforming complex datasets into actionable insights.
 - 🌱 I’m currently learning advanced data visualization techniques using Python libraries such as Matplotlib, Seaborn, and Plotly.
@@ -19,18 +9,47 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving data puzzles and often apply my analytical skills to crack complex riddles!
 ---
-## 🔐 Data Analyst | 85+ Certifications | Learning Phase in Data (ML, AI, IoT) | Intermediate with CompTIA, Microsoft, Google, IBM, AWS | (CBAP)® & (CAP)® , (SAS)® Certified 📊 🖥️👨🏻‍💻 "ᴅᴀᴛᴀ ɪꜱ ᴛʜᴇ ɴᴇᴡ ᴏɪʟ"
+**🔐 Data Analyst | 90+ Certifications | Learning Phase in Data (ML, AI, IoT) | Intermediate with CompTIA, Microsoft, Google, IBM, AWS | (CBAP)® & (CAP)® , (SAS)® Certified 📊 🖥️👨🏻‍💻** 
+
+"ᴅᴀᴛᴀ ɪꜱ ᴛʜᴇ ɴᴇᴡ ᴏɪʟ"
 
 ---👨🏻‍💻---
 
-#### Certifications
-- Over 85 certifications in areas such as Data Analysis, Machine Learning, Artificial Intelligence, Internet of Things, and various other fields.
-- Intermediate skills with CompTIA, Microsoft, Google, IBM, AWS.
-- Certified Business Analysis Professional (CBAP)® and Certified Analytics Professional (CAP)®.
-- SAS Certified Specialist.
+### Key Strengths
+- ----------------------
+  **- Certified Expertise:** 90+ industry-recognized certifications in DA, ML, AI, & IoT Expertise & So on. 
+            - Intermediate skills with CompTIA, Microsoft, Google, IBM, AWS.
+            - Certified Business Analysis Professional (CBAP)® and Certified Analytics Professional (CAP)®.
+          
+  **- Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn SciPy, NLP, NLTK, XAI), SQL (MySQL, Oracle Database, AWS, etc), R (ggplot2, dplyr, tidyr) , SAS, SPSS.
   
+  **- Data Viz Tools:** Power BI, Excel, Tableau, and Cognos Analytics 
+  **- Statistical Analysis:** Hypothesis Testing, Distributions, and Regression ( EDA, CDA)
+  **- Additional:** (SPSS, SAS), Git/GitHub), Cloud Platforms, Azure, Datalake, Werehouse, More 
+  
+  **- Business Acumen:** Deep understanding of business objectives, aligning data insights & So on.
+  **- Leadership:** Experienced in leading teams, mentoring analysts, and fostering a data-driven culture.
+  **- Cloud & Infrastructure:** Expertise in Azure, data lakes, and data warehouses.
+  
+  - -----------------
+  
+- **Data Visualization Tools:** Power BI, Excel, Tableau, Cognos Analytics
+- **Statistical Analysis:** Hypothesis Testing, Distributions, Regression (EDA, CDA)
+- **Additional Skills:** SPSS, SAS, Git/GitHub, Cloud Platforms, Azure, Data Lake, Data Warehouse
+- **Business Acumen:** Deep understanding of business objectives, aligning data insights.
+- **Leadership:** Experienced in leading teams, mentoring analysts, and fostering a data-driven culture.
+- **Cloud & Infrastructure:** Expertise in Azure, data lakes, and data warehouses.
+
 ### About Me
 
+{
+  "name": "Satender Kumar",
+  "contact_information": {
+    "phone": "+1-226-637-6900",
+    "email": "khushyanil@gmail.com",
+    "address": "Canada Ontario"
+  },
+  
 --😎--
 
 Results-driven data analyst with a proven track record of translating complex data into actionable strategies. 
@@ -139,34 +158,8 @@ Satender Kumar 23 khushyanil@gmail.com
 ;
 run; 
 
-### Key Strengths
-
-- **Certified Expertise:** 85+ industry-recognized certifications in Data Analysis, Machine Learning, AI, and IoT.
-- **Programming:**
-- ----------------------
-  - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, NLP, NLTK, XAI)
-  - SQL (MySQL, Oracle Database, AWS)
-  - R (ggplot2, dplyr, tidyr)
-  - library(ggplot2)
-  - library(dplyr)
-  - library(tidyr)
-  - SAS, SPSS
-  - -----------------
-- **Data Visualization Tools:** Power BI, Excel, Tableau, Cognos Analytics
-- **Statistical Analysis:** Hypothesis Testing, Distributions, Regression (EDA, CDA)
-- **Additional Skills:** SPSS, SAS, Git/GitHub, Cloud Platforms, Azure, Data Lake, Data Warehouse
-- **Business Acumen:** Deep understanding of business objectives, aligning data insights.
-- **Leadership:** Experienced in leading teams, mentoring analysts, and fostering a data-driven culture.
-- **Cloud & Infrastructure:** Expertise in Azure, data lakes, and data warehouses.
-
 ---
 **Professional Experience**
-  **self.experience** = [
-            "Data Analytics Specialist Intern at McKinsey & Company",
-            "Computer System Operator at Ideal Team Group",
-            "Technical Support Associate at Lenovo India"
-        ]  
-
         
 **Security Operations Analyst - Workplace Safety and Insurance Board (WSIB), Paladin Security Group Ltd**
 October 2023 – Present
