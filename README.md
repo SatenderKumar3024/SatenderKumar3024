@@ -1,4 +1,13 @@
 ## 👋 Hi, I’m @SatenderKumar3024
+
+{
+  "name": "Khushyanil",
+  "contact_information": {
+    "phone": "+1-226-637-6900",
+    "email": "khushyanil@gmail.com",
+    "address": "Canada Ontario"
+  },
+  -
 - 👀 I’m interested in data analysis, data visualization, and transforming complex datasets into actionable insights.
 - 🌱 I’m currently learning advanced data visualization techniques using Python libraries such as Matplotlib, Seaborn, and Plotly.
 - 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative data visualization solutions.
@@ -16,9 +25,11 @@
 - Intermediate skills with CompTIA, Microsoft, Google, IBM, AWS.
 - Certified Business Analysis Professional (CBAP)® and Certified Analytics Professional (CAP)®.
 - SAS Certified Specialist.
-- 
+  
 ### About Me
+
 --😎--
+
 Results-driven data analyst with a proven track record of translating complex data into actionable strategies. 
 I hold over 85 certifications, specializing in leveraging advanced tools and techniques to extract valuable insights, identify trends,
 and drive decision-making that fuels growth and innovation. My journey in the field of data science is marked by continuous learning &
@@ -28,12 +39,54 @@ Profile: [Linktree](https://linktr.ee/satendersingh)
 ---
 ### Background Knowledge
 #### Educational Background
-- **Hartron Skill Center - India**
-  - Diploma of Education in DCA AND MS OFFICE AND WELL RELATED Applications (Aug 2018 - Jul 2019)
-  - Grade: A+
-- **Completed 10th Grade (2017)**
-- **Completed 12th Grade (2018)**
+----
+Advanced Diploma in Computer Applications A++, IFC++ & More
+2023 – 2024
+----
+Fanshawe College
+Diploma of Education, Business, Management, Marketing, and Related Support Services
+Sep 2021 - Apr 2023
+Grade: A+
 -----
+Hartron Skill Center - India
+Diploma of Education, Computer Programming, Specific Applications
+Aug 2018 - Jul 2019
+Grade: A+
+----
+Government Senior Secondary School (GSSS) Kaithal
+12th Grade, Physics, Chemistry, Mathematics, Computer IFA+, Biology
+Jul 2017 - May 2018
+Grade: A+
+---
+Government Senior Secondary School (GSSS) Kaithal
+10th Grade, Physics, Chemistry, Mathematics
+Jul 2016 - May 2017
+Grade: A+
+----
+**Certifications & Specializations more the 90+ from ( CompTIA, Microsoft, Google, IBM, AWS, Azure, Linkedin **
+----
+Google Advanced Data Analytics
+IBM Data Analyst Specialization
+Microsoft Power BI Data Analyst (Business) - PL-300
+Tableau & Cognos Analytics Specialization
+Google Workspace Specialization
+Microsoft 365 Fundamentals Specialization
+Google IT Support Professional Certificate
+CompTIA A+ Certification
+CompTIA IT Fundamentals+ (ITF+) Certification
+CompTIA Security+ Certification
+CompTIA Network+ Certification
+Google Workspace Specialization
+Microsoft 365 Fundamentals Specialization
+Introduction to Artificial Intelligence (AI)
+Data Analytics
+Anaconda Python Master
+SQL California University
+Statics - (NASBA)
+Google Data Analytics
+Google Workspace Specialization
+Microsoft 365 Fundamentals Specialization
+----
 
 #### Technical Skills
 - **Programming Languages:** 
@@ -45,6 +98,7 @@ Profile: [Linktree](https://linktr.ee/satendersingh)
   from scipy import stats
   import nltk
   from nltk.corpus import stopwords
+  
 ---
 **Python (Pandas, NumPy) **
 
@@ -94,6 +148,54 @@ run;
 - **Cloud & Infrastructure:** Expertise in Azure, data lakes, and data warehouses.
 
 ---
+**Professional Experience**
+
+Security Operations Analyst
+Workplace Safety and Insurance Board (WSIB), Paladin Security Group Ltd
+October 2023 – Present
+----
+Proficient in C-Cure 9000 for front desk operations, access management, and troubleshooting.
+Tools: Power BI, Google Workspace, Microsoft Office Suite.
+Security Database: Risk assessments, management, and physical & IT security protocols.
+Network Security: Data protection, conducting error assessments.
+Communication: Effective stakeholder management and response to security inquiries.
+
+Data Analytics Specialist Intern
+McKinsey & Company
+2022 – 2023
+---
+Conducted ETL, data cleaning, and preprocessing.
+Created customer segmentation models using Python and R.
+Developed visualizations and reports in Excel and Power BI.
+Automated data collection processes, improving efficiency by 20%.
+Collaborated with marketing teams to resolve data issues.
+Designed interactive Power BI dashboards for HR metrics.
+
+Computer System Operator
+Ideal Team Group, India
+Aug 2018 – Feb 2021
+-----
+Maintained and administered LANs, WANs, and computer workstations.
+Monitored system performance and conducted hardware/software maintenance.
+Supported system upgrades and integration.
+Provided technical support and problem-solving services.
+
+Commercial Security Specialist
+Garda World at Canada Post (London)
+----
+Monitored sites and prevented security threats.
+Administered access procedures and visitor credentials.
+Utilized advanced CCTV systems for premises monitoring.
+Coordinated with law enforcement for security incidents.
+
+Technical Support Associate
+Lenovo India, Dehradun, Uttarakhand, India (Remote)
+Jan 2016 – Feb 2018
+----
+Provided tech support for hardware and software issues.
+Diagnosed and resolved complex technical problems.
+Configured LAN/WAN setups and network connectivity.
+Conducted repairs and preventive maintenance.
 
 ### Seeking Opportunities To
 
