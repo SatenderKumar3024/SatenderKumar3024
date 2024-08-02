@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving data puzzles and often apply my analytical skills to crack complex riddles!
 ---
-**🔐 Data Analyst | 90+ Certifications | Learning Phase in Data (ML, AI, IoT) | Intermediate with CompTIA, Microsoft, Google, IBM, AWS | (CBAP)® & (CAP)® , (SAS)® Certified 📊 🖥️👨🏻‍💻** 
+**🔐 Data Analyst | Certified Professional | Learning Phase in Data (ML, AI, IoT | Intermediate with CompTIA, Microsoft, Google, IBM, AWS ) | (CBAP)® & (CAP)® , (SAS)® Certified 📊 🖥️👨🏻‍💻** 
 
 "ᴅᴀᴛᴀ ɪꜱ ᴛʜᴇ ɴᴇᴡ ᴏɪʟ"
 
