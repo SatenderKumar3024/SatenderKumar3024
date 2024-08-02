@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative data visualization solutions.
 - 📫 How to reach me:
   - Email: [khushyanil@gmail.com](mailto:khushyanil@gmail.com)
-  - Website:- https://bold.pro/my/satender-kumar/589r
+  - Website:- [https://bold.pro/my/satender-kumar/589r](https://linktr.ee/satendersingh)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving data puzzles and often apply my analytical skills to crack complex riddles!
 ---
