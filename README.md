@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @SatenderKumar3024
+## 👋 Hi, I’m @Satender Kumar
   
 - 👀 I’m interested in data analysis, data visualization, and transforming complex datasets into actionable insights.
 - 🌱 I’m currently learning advanced data visualization techniques using Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Plotly.
