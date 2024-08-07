@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @SatenderKumar3024
   
 - 👀 I’m interested in data analysis, data visualization, and transforming complex datasets into actionable insights.
-- 🌱 I’m currently learning advanced data visualization techniques using Python libraries such as Matplotlib, Seaborn, and Plotly.
+- 🌱 I’m currently learning advanced data visualization techniques using Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Plotly.
 - 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative data visualization solutions.
 - 📫 How to reach me:
   - Email: [khushyanil@gmail.com](mailto:khushyanil@gmail.com)
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving data puzzles and often apply my analytical skills to crack complex riddles!
 ---
-**🔐 Data Analyst | Certified Professional | Learning Phase in Data (ML, AI, IoT | Intermediate with CompTIA, Microsoft, Google, IBM, AWS ) | (CBAP)® & (CAP)® , (SAS)® Certified 📊 🖥️👨🏻‍💻** 
+**🔐 Certified Data Analyst | Python, SQL, R | Excel, Power BI & Tableau Specialist | Transforming Data into Actionable Insights | Proven Efficiency Booster | Data-Driven Decision | Learning Phase in Data (ML, AI, IoT | Intermediate with CompTIA, Microsoft, Google, IBM, AWS ) | (CBAP)® & (CAP)® , (SAS)® Certified 📊 👨🏻‍💻** 
 
 "ᴅᴀᴛᴀ ɪꜱ ᴛʜᴇ ɴᴇᴡ ᴏɪʟ"
 
