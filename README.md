@@ -17,8 +17,7 @@
 
 ### Key Strengths
 - ----------------------
-**Certified Expertise:**
-- 100+ industry-recognized certifications in Data Analysis (DA), Machine Learning (ML), Artificial Intelligence (AI), and the Internet of Things (IoT).
+  **-: Certified Expertise:** Holder of over 100 industry-recognized certifications in Data Analytics, Machine Learning, AI, IoT, and Security Technologies. Key certifications include Microsoft (DP-900, DP-300, PL-300), CompTIA A+, Security+, Network+, Google IT Support, AWS Security Specialty, and CISSP (In Progress).
   
 **Programming:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, NLP, NLTK, XAI)
@@ -42,22 +41,20 @@
 - Cloud Platforms (Azure)
 - Data Lake
 - Data Warehouse
-  
--: Certified Expertise: Holder of over 100 industry-recognized certifications in Data Analytics, Machine Learning, AI, IoT, and Security Technologies. Key certifications include Microsoft (DP-900, DP-300, PL-300), CompTIA A+, Security+, Network+, Google IT Support, AWS Security Specialty, and CISSP (In Progress).
 
- -: Programming & Database Management: Advanced proficiency in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (T-SQL, PL/SQL, MySQL, PostgreSQL), R (ggplot2, dplyr), and experience with Snowflake, Databricks, Redshift, BigQuery, ETL processes, Data Warehousing, and Data Lakes. 
+ **-: Programming & Database Management:** Advanced proficiency in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (T-SQL, PL/SQL, MySQL, PostgreSQL), R (ggplot2, dplyr), and experience with Snowflake, Databricks, Redshift, BigQuery, ETL processes, Data Warehousing, and Data Lakes. 
 
- -: Data Visualization & Reporting: Expertise in Power BI (DAX, Power Query), Tableau (Interactive Dashboards, Data Storytelling), and Excel (Pivot Tables, VBA). Known for creating real-time dashboards and reports that drive strategic decision-making and operational improvements.
+ **-: Data Visualization & Reporting:** Expertise in Power BI (DAX, Power Query), Tableau (Interactive Dashboards, Data Storytelling), and Excel (Pivot Tables, VBA). Known for creating real-time dashboards and reports that drive strategic decision-making and operational improvements.
 
- -: Technical Tools & Platforms: Extensive hands-on experience with Dataiku DSS, Alteryx, Jupyter Notebook, RStudio, SQL Server Management Studio (SSMS), MySQL Workbench, Git/GitHub, and cloud platforms including Microsoft Azure, AWS, and Google Cloud.
+ -**: Technical Tools & Platforms:** Extensive hands-on experience with Dataiku DSS, Alteryx, Jupyter Notebook, RStudio, SQL Server Management Studio (SSMS), MySQL Workbench, Git/GitHub, and cloud platforms including Microsoft Azure, AWS, and Google Cloud.
 
- -: Security Operations: Strong background in IT Risk Management, Incident Management, Security Controls, and Compliance. Proficient in Security Monitoring (SIEM - Splunk), Access Control (C-Cure 9000, Lenel, Brivo), Firewalls, IDS/IPS, Monitoring Station, and ensuring adherence to GDPR, PCI DSS, and ISO 27001/27002 standards.
+ -**: Security Operations:** Strong background in IT Risk Management, Incident Management, Security Controls, and Compliance. Proficient in Security Monitoring (SIEM - Splunk), Access Control (C-Cure 9000, Lenel, Brivo), Firewalls, IDS/IPS, Monitoring Station, and ensuring adherence to GDPR, PCI DSS, and ISO 27001/27002 standards.
 
- -: Cloud Security & Infrastructure: Extensive experience in cloud security across AWS (IAM, KMS, Shield, WAF) and Azure (Security Centre, Sentinel). Skilled in managing CI/CD pipelines, API security, and deploying scalable, secure cloud solutions.
+ -**: Cloud Security & Infrastructure:** Extensive experience in cloud security across AWS (IAM, KMS, Shield, WAF) and Azure (Security Centre, Sentinel). Skilled in managing CI/CD pipelines, API security, and deploying scalable, secure cloud solutions.
 
- -: Process Improvement & Compliance: Proficient in implementing Lean Six Sigma methodologies, Workflow Automation, and Agile Practices (JIRA, Scrum, TDD, BDD). Strong focus on Data Privacy (GDPR, CCPA), Data Quality Management, Data Governance, and PMO Governance to ensure seamless operations and compliance.
+ -**: Process Improvement & Compliance:** Proficient in implementing Lean Six Sigma methodologies, Workflow Automation, and Agile Practices (JIRA, Scrum, TDD, BDD). Strong focus on Data Privacy (GDPR, CCPA), Data Quality Management, Data Governance, and PMO Governance to ensure seamless operations and compliance.
 
- -: Statistical Analysis & Predictive Analytics: In-depth knowledge of Hypothesis Testing, Regression, Market Analysis, Business Analysis, and Predictive Modeling using AI and Machine Learning techniques.
+ -**: Statistical Analysis & Predictive Analytics:** In-depth knowledge of Hypothesis Testing, Regression, Market Analysis, Business Analysis, and Predictive Modeling using AI and Machine Learning techniques.
 
 ### About Me
 
