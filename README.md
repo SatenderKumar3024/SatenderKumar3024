@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Satender Kumar
-  
+ 
 - 👀 I’m interested in data analysis, data visualization, and transforming complex datasets into actionable insights.
 - 🌱 I’m currently learning advanced data visualization techniques using Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Plotly.
 - 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative data visualization solutions.
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving data puzzles and often apply my analytical skills to crack complex riddles!
 ---
-**🔐 Certified Data Analyst | Python, SQL, R | Excel, Power BI & Tableau Specialist | Transforming Data into Actionable Insights | Proven Efficiency Booster | Data-Driven Decision | Learning Phase in Data (ML, AI, IoT | Intermediate with CompTIA, Microsoft, Google, IBM, AWS ) | (CBAP)® & (CAP)® , (SAS)® Certified 📊 👨🏻‍💻** 
+**🔐 Data & Security Analyst | Python, SQL, R | Excel, Power BI & Tableau Specialist | Dataiku, Alteryx | Agile, Scrum | Azure, AWS, GCP | AI, ML, IoT | Six Sigma, CISSP, CISM | CCNA, CISA, CCSP | Microsoft Certified: DP-900, DP-300, PL-300 | Transforming Data into Actionable Insights | Proven Efficiency Booster | Data-Driven Decision | Learning Phase in Data (ML, AI, IoT | Intermediate with CompTIA, Google, IBM, AWS ) | (CBAP)® & (CAP)® , (SAS)® Certified 📊 👨🏻‍💻** 
 
 "ᴅᴀᴛᴀ ɪꜱ ᴛʜᴇ ɴᴇᴡ ᴏɪʟ"
 
@@ -18,7 +18,7 @@
 ### Key Strengths
 - ----------------------
 **Certified Expertise:**
-- 90+ industry-recognized certifications in Data Analysis (DA), Machine Learning (ML), Artificial Intelligence (AI), and the Internet of Things (IoT).
+- 100+ industry-recognized certifications in Data Analysis (DA), Machine Learning (ML), Artificial Intelligence (AI), and the Internet of Things (IoT).
   
 **Programming:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, NLP, NLTK, XAI)
@@ -43,14 +43,21 @@
 - Data Lake
 - Data Warehouse
   
-**Business Acumen:**
-- Deep understanding of business objectives, aligning data insights to drive business success.
-  
-**Leadership:**
-- Experienced in leading teams, mentoring analysts, and fostering a data-driven culture.
-  
-**Cloud & Infrastructure:**
-- Expertise in Azure, data lakes, and data warehouses.
+-: Certified Expertise: Holder of over 100 industry-recognized certifications in Data Analytics, Machine Learning, AI, IoT, and Security Technologies. Key certifications include Microsoft (DP-900, DP-300, PL-300), CompTIA A+, Security+, Network+, Google IT Support, AWS Security Specialty, and CISSP (In Progress).
+
+ -: Programming & Database Management: Advanced proficiency in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (T-SQL, PL/SQL, MySQL, PostgreSQL), R (ggplot2, dplyr), and experience with Snowflake, Databricks, Redshift, BigQuery, ETL processes, Data Warehousing, and Data Lakes. 
+
+ -: Data Visualization & Reporting: Expertise in Power BI (DAX, Power Query), Tableau (Interactive Dashboards, Data Storytelling), and Excel (Pivot Tables, VBA). Known for creating real-time dashboards and reports that drive strategic decision-making and operational improvements.
+
+ -: Technical Tools & Platforms: Extensive hands-on experience with Dataiku DSS, Alteryx, Jupyter Notebook, RStudio, SQL Server Management Studio (SSMS), MySQL Workbench, Git/GitHub, and cloud platforms including Microsoft Azure, AWS, and Google Cloud.
+
+ -: Security Operations: Strong background in IT Risk Management, Incident Management, Security Controls, and Compliance. Proficient in Security Monitoring (SIEM - Splunk), Access Control (C-Cure 9000, Lenel, Brivo), Firewalls, IDS/IPS, Monitoring Station, and ensuring adherence to GDPR, PCI DSS, and ISO 27001/27002 standards.
+
+ -: Cloud Security & Infrastructure: Extensive experience in cloud security across AWS (IAM, KMS, Shield, WAF) and Azure (Security Centre, Sentinel). Skilled in managing CI/CD pipelines, API security, and deploying scalable, secure cloud solutions.
+
+ -: Process Improvement & Compliance: Proficient in implementing Lean Six Sigma methodologies, Workflow Automation, and Agile Practices (JIRA, Scrum, TDD, BDD). Strong focus on Data Privacy (GDPR, CCPA), Data Quality Management, Data Governance, and PMO Governance to ensure seamless operations and compliance.
+
+ -: Statistical Analysis & Predictive Analytics: In-depth knowledge of Hypothesis Testing, Regression, Market Analysis, Business Analysis, and Predictive Modeling using AI and Machine Learning techniques.
 
 ### About Me
 
@@ -168,16 +175,32 @@ run;
 ---
 **Professional Experience**
         
-**Security Operations Analyst - Workplace Safety and Insurance Board (WSIB), Paladin Security Group Ltd**
-October 2023 – Present
+**Technical Security Operations Analyst | (WSIB)- Workplace Safety and Insurance Board (WSIB), Paladin Security Group Ltd**
+**October 2023 – Present**
 
- - Utilized C-Cure 9000 to effectively oversee front desk operations and access management while reinforcing security protocols and optimizing anomaly tracking.
- - Automated data collection and executed ETL processes, boosting efficiency by 20% and ensuring high-quality datasets for analysis.
- - Employed advanced Excel functions (VLOOKUP, pivot tables) and utilized Power BI and Google Workspace to streamline workflow, create reports, and analyze security data.
- - Optimized SQL queries, reducing processing times by over 50% and improving database efficiency, contributing to a 30% increase in overall operating efficiency.
+- Collaborated closely with the SOC team to deploy and optimize Splunk for real-time security monitoring, resulting in a 30% improvement in incident response times. Utilized Splunk and Cisco SecureX to reduce the impact of potential security breaches and enhance overall security posture.
+
+ - Partnered with Cisco engineers to configure and manage network security operations using Cisco Firepower and Cisco ASA, including firewall setups, IDS/IPS management, and VPN configurations, ensuring secure communication channels and robust protection against external threats.
+
+ - Worked with the SOC team to monitor threat intelligence feeds through Cisco Talos and Splunk, proactively addressing potential security threats. Implemented preventative measures that reduced incident occurrences and fortified system security.
+
+ - Utilized Power BI, Excel, and Server to generate detailed security reports, working closely with both SOC and Cisco teams to  - provide stakeholders with actionable insights. This collaboration improved decision-making and operational efficiency by 30%.
+
+ - Collaborated with SOC and Cisco teams to ensure compliance with PCI DSS and other security standards. Used C-Cure 9000 and Cisco AnyConnect to resolve complex technical issues, improving system uptime and reliability by 20%. Applied Lean Six Sigma principles to streamline operations and enhance overall efficiency.
+
+**Network & Protection Operational TeamNetwork & Protection Operational Team
+GardaWorld · Permanent Full-time**
+
+- Safeguarded Canada Post assets by implementing comprehensive security protocols, including advanced network security, data protection strategies, and physical security measures. Utilized AWS cloud-based CCTV systems for continuous monitoring and precise incident reporting.
+
+ - Led the response to security incidents, collaborating with cross-functional teams to ensure rapid resolution. Analyzed incident data through Power BI and Excel, identifying patterns and implementing preventative strategies to mitigate future risks.
+
+ - Managed critical network security operations, including configuring firewalls, managing IDS/IPS systems, and setting up secure VPNs. Ensured secure communication channels across the organization and conducted audits to maintain PCI DSS compliance.
+
+ - Directed the implementation and management of SQL-based access control systems, ensuring stringent access controls to sensitive areas. Regularly audited security measures to guarantee adherence to PCI DSS and other regulatory standards, ensuring a secure operational environment.
 
 **Data Analytics Specialist - Intern McKinsey & Company**
-2022 – 2023
+**2022 – 2023**
 
  - Reduced product return rates by 24% through data-driven analysis and corrective actions. Implemented customer segmentation strategies using SQL and Excel, improving stock clearance and sales efficiency.
  - Led market trend analysis for over 50 brands, driving a GMV increase of 27 million dollars through strategic insights. Conducted inventory analysis using Excel to optimize stock levels, resulting in a 12% revenue growth.
@@ -188,25 +211,28 @@ October 2023 – Present
 **Computer System Operator - Ideal Team Group, India**
 Aug 2018 – Feb 2021
 
-- Maintained and administered LANs, WANs, and computer workstations.
-- Monitored system performance and conducted hardware/software maintenance.
-- Supported system upgrades and integration.
-- Provided technical support and problem-solving services.
+- Provided end-to-end IT support, including server management, network configuration, and security patch management using tools like Nagios for monitoring and Microsoft SCCM for software deployment. Ensured the seamless operation of critical IT infrastructure across the institute.
 
-**Commercial Security Specialist - Garda World at Canada Post (London)**
+ - Managed data backups and implemented robust security protocols to safeguard sensitive information. Conducted regular audits using tools like Veritas Backup Exec and Symantec Endpoint Protection to ensure data integrity and compliance with organizational policies.
 
-- Monitored sites and prevented security threats.
-- Administered access procedures and visitor credentials.
-- Utilized advanced CCTV systems for premises monitoring.
-- Coordinated with law enforcement for security incidents.
+ - Delivered timely and effective remote troubleshooting using tools like TeamViewer and Zendesk. Collaborated closely with the internal IT team to resolve technical issues, minimizing downtime and enhancing user satisfaction across the institute.
+
+ - Identified areas for improvement in IT processes and implemented solutions that enhanced operational efficiency and reduced costs. Leveraged Google Workspace and Microsoft Office Suite for data tracking, analysis, and reporting, leading to a 20% improvement in system reliability through proactive monitoring and maintenance.
+
+ - Worked closely with the academic and administrative teams to support IT-related projects and initiatives. Utilized Jira for project management, ensuring seamless coordination and successful completion of technology upgrades and system enhancements.
 
 **Technical Support Associate - Lenovo India, Dehradun, Uttarakhand, India (Remote)**
 Jan 2016 – Feb 2018
 
- - Delivered 99.9% expert support for hardware, peripherals, and software, resolving internet connection issues, and invoice difficulties. Provided technical assistance to over 2,000 Plus systems, ensuring high standards of service.
-Handled 20+ support tickets daily with a 99.8% success rate, implementing best practices that reduced resolution time by 30%.
--  Created and assigned tickets for integration issues, bugs, and defects. Investigated, documented and tested unusual behavior to ensure quality assurance in QA, pre-production and live environments.
- - Designed and launched an online query tool that enabled remote troubleshooting, reducing technician travel costs by 40%. Suggested and supported IT hardware and accessory procurement, cutting unnecessary purchases by 60%. Provided remote support using TeamViewer, VNC Server, Ammyy Remote Software, and remote desktop tools.
+ - Provided expert technical support for over 2,000 systems, achieving a 99.8% success rate in resolving hardware, software, and network issues. Utilized tools like TeamViewer and Zendesk to diagnose and resolve complex technical problems, significantly reducing customer downtime by 25%.
+
+ - Configured and maintained LAN/WAN networks, VPNs, and security systems. Conducted regular security audits using tools like Wireshark and Network Assistant, ensuring robust network security and reducing the frequency of network-related issues.
+
+- Leveraged data analysis using Python and SQL to identify trends and optimize IT support processes. Implemented solutions that improved operational efficiency and reduced response times, while ensuring detailed documentation of all technical support activities using Confluence.
+
+ - Led the creation of user-friendly technical documentation, reducing the frequency of common support queries by 40%. Collaborated with cross-functional teams to implement a new query tool, streamlining the support process and enhancing knowledge sharing.
+
+ - Utilized diagnostic software like MemTest86 and hardware monitoring tools like HWMonitor, along with Google Workspace and Microsoft Office Suite, to ensure smooth operations and effective communication within the team. Also employed Power BI for generating insightful reports on support metrics and trends.
 
 ### Seeking Opportunities To
 
