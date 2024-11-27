@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m @Satender Kumar
  
-- 👀 I’m interested in data analysis, data visualization, and transforming complex datasets into actionable insights.
-- 🌱 I’m currently learning advanced data visualization techniques using Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Plotly.
-- 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative data visualization solutions.
+- 👀 Hi, I’m Satender Kumar – a dedicated **Information Security Analyst** and **Blue Team Specialist** with a passion for fortifying organizations against modern cybersecurity threats. With over many years of experience in **cyber threat detection**, **incident response**, and **data-driven security solutions**, I bring a unique blend of technical expertise and strategic insight to safeguard critical assets and drive compliance.
+- 🌱 I specialize in deploying and managing **SIEM tools** like Splunk and Azure Sentinel, enhancing security monitoring and response capabilities. My proficiency in Python, SQL, SPL, and Power BI enables me to extract actionable insights from complex datasets, optimize risk management processes, and build real-time dashboards for informed decision-making.
+- 💞️ With extensive experience across multi-cloud environments **(AWS, Azure, GCP)** and certifications in SSCP, AWS Security Specialty, CompTIA Security+, and CISSP (in progress), I deliver tailored solutions aligned with ISO 27001, GDPR, PCI DSS, and NIST frameworks..
 - 📫 How to reach me:
-  - Email: [khushyanil@gmail.com](mailto:khushyanil@gmail.com)
+  - Email: satenderkumar.analyst@gmail.com
   - Website:- (https://linktr.ee/satendersingh)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving data puzzles and often apply my analytical skills to crack complex riddles!
+- ⚡ Fun fact: Committed to developing innovative solutions to mitigate evolving threats.
 ---
 **🔐 Data & Security Analyst | Python, SQL, R | Excel, Power BI & Tableau Specialist | Dataiku, Alteryx | Agile, Scrum | Azure, AWS, GCP | AI, ML, IoT | Six Sigma, CISSP, CISM | CCNA, CISA, CCSP | Microsoft Certified: DP-900, DP-300, PL-300 | Transforming Data into Actionable Insights | Proven Efficiency Booster | Data-Driven Decision | Learning Phase in Data (ML, AI, IoT | Intermediate with CompTIA, Google, IBM, AWS ) | (CBAP)® & (CAP)® , (SAS)® Certified 📊 👨🏻‍💻** 
 
