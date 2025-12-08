@@ -1,4 +1,4 @@
-# 💫 About Me:
+# **SOC Analyst | Threat Detection & Incident Response | Splunk & Microsoft Sentinel SIEM | AWS & Azure Cloud Security | IAM & Zero Trust | MITRE ATT&CK | CySA+ | AZ-500**
 Cybersecurity professional specializing in SIEM engineering, detection development, and threat hunting.
 <br><br>Currently working in security operations with a focus on building high-value detections and improving incident response.
 <br><br>Passionate about modern detection engineering, including behavioral analytics, cloud detections, and identity security.
