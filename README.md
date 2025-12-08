@@ -1,180 +1,27 @@
-# 👋 Hi, I'm Satender Kumar
+# 💫 About Me:
+# 🎨 Enhanced Colorful GitHub Profile README<br><br>```markdown<br><!-- Header Banner --><br><div align="center"><br>  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Satender%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Detection%20Engineering%20|%20Threat%20Operations%20|%20Cloud%20Security&descAlignY=52&descSize=18" width="100%"/><br></div><br><br><!-- Animated Typing --><br><div align="center"><br>  <a href="https://git.io/typing-svg"><br>    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Security+Operations+Professional+with+4%2B+Years+Experience;%F0%9F%8E%AF+SIEM+%7C+Threat+Intelligence+%7C+Incident+Response;%E2%98%81%EF%B8%8F+AWS+%7C+Azure+%7C+GCP+Cloud+Security+Expert" alt="Typing SVG" /><br>  </a><br></div><br><br><!-- Social Badges --><br><div align="center"><br>  <br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satender-kumar2430/)<br>  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satenderkumar.analyst@gmail.com)<br>  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatenderKumar3024)<br>  [![Location](https://img.shields.io/badge/📍_London,_ON_🇨🇦-228B22?style=for-the-badge)](https://maps.google.com/?q=London,ON,Canada)<br>  [![Phone](https://img.shields.io/badge/📞_(226)_637--6900-4285F4?style=for-the-badge)](tel:+12266376900)<br>  <br></div><br><br><!-- Profile Views Counter --><br><div align="center"><br>  <img src="https://komarev.com/ghpvc/?username=SatenderKumar3024&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/><br>  <img src="https://img.shields.io/github/followers/SatenderKumar3024?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers"/><br>  <img src="https://img.shields.io/github/stars/SatenderKumar3024?style=for-the-badge&color=yellow&label=STARS" alt="Stars"/><br></div><br><br><br/><br><br><!-- Animated Divider --><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>---<br><br>## 🛡️ About Me<br><br><img align="right" alt="Security Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/><br><br>```yaml<br>name: Satender Kumar<br>role: Security Operations & Incident Response Coordinator<br>company: Paladin Security Group Ltd<br>location: London, Ontario, Canada 🇨🇦<br>experience: 4+ Years<br><br>current_focus:<br>  - Detection Engineering<br>  - Threat Hunting<br>  - Cloud Security (AWS/Azure)<br>  - SIEM Operations<br><br>achievements:<br>  - Processing 200+ security alerts monthly<br>  - 98% accuracy in severity classification<br>  - 1,500+ newsletter subscribers<br>  - 25+ training modules developed<br><br>work_authorization: Legally authorized to work in Canada<br>availability: Flexible for on-call & incident response<br>```<br><br><br clear="right"/><br><br>---<br><br><!-- Animated Divider --><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>## 🛠️ Technical Arsenal<br><br><div align="center"><br><br>### 🔍 SIEM & Threat Detection<br><p><br>  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/><br>  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Sentinel"/><br>  <img src="https://img.shields.io/badge/KQL-5C2D91?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="KQL"/><br>  <img src="https://img.shields.io/badge/SPL-000000?style=for-the-badge&logo=splunk&logoColor=green" alt="SPL"/><br>  <img src="https://img.shields.io/badge/Log_Analysis-FF6B6B?style=for-the-badge&logo=kibana&logoColor=white" alt="Log Analysis"/><br></p><br><br>### ☁️ Cloud Security Platforms<br><p><br>  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/><br>  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/><br>  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/><br>  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudTrail"/><br>  <img src="https://img.shields.io/badge/GuardDuty-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" alt="GuardDuty"/><br>  <img src="https://img.shields.io/badge/Security_Hub-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Security Hub"/><br></p><br><br>### 💻 Scripting & Automation<br><p><br>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/><br>  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/><br>  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/><br>  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/><br>  <img src="https://img.shields.io/badge/Regex-DD0031?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/><br></p><br><br>### 🎯 Frameworks & Standards<br><p><br>  <img src="https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE"/><br>  <img src="https://img.shields.io/badge/NIST_800--53-003366?style=for-the-badge&logo=nist&logoColor=white" alt="NIST"/><br>  <img src="https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge&logo=nist&logoColor=white" alt="NIST CSF"/><br>  <img src="https://img.shields.io/badge/ISO_27001-006400?style=for-the-badge&logo=iso&logoColor=white" alt="ISO"/><br>  <img src="https://img.shields.io/badge/CIS_Controls-FF6600?style=for-the-badge" alt="CIS"/><br>  <img src="https://img.shields.io/badge/GDPR-0052CC?style=for-the-badge" alt="GDPR"/><br></p><br><br>### 🔧 Security Tools<br><p><br>  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/><br>  <img src="https://img.shields.io/badge/Qualys-FF0000?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys"/><br>  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/><br>  <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AD"/><br>  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM"/><br></p><br><br></div><br><br>---<br><br><!-- Animated Divider --><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>## 📜 Certifications & Credentials<br><br><div align="center"><br><br>| 🏢 Vendor | 🎖️ Certifications | 🔗 Verify |<br>|:---------:|:------------------|:--------:|<br>| ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) | **Certified Cybersecurity Defense Analyst** | [🔗](https://www.splunk.com/) |<br>| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **SC-900** • **AZ-900** • **SC-300** • **AZ-500** | [🔗](https://learn.microsoft.com/en-us/certifications/) |<br>| ![CompTIA](https://img.shields.io/badge/CompTIA-FF0000?style=flat-square&logo=comptia&logoColor=white) | **Security+** • **CySA+** • **Cloud+** • **Network+** | [🔗](https://www.comptia.org/) |<br>| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | **Security – Specialty** • **Cloud Practitioner** | [🔗](https://aws.amazon.com/certification/) |<br>| ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white) | **Certified GRC Professional** | [🔗](https://www.servicenow.com/) |<br>| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | **IT Support Professional** • **Cybersecurity Professional** | [🔗](https://www.coursera.org/google-career-certificates) |<br>| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | **Computer Hardware v3** • **Hardware & OS v3** | [🔗](https://www.cisco.com/) |<br><br></div><br><br>---<br><br><!-- Animated Divider --><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>## 🚀 Featured Projects<br><br><div align="center"><br><br><!-- Project 1 --><br><a href="https://github.com/SatenderKumar3024/SIEM-Detection-Engineering"><br>  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatenderKumar3024&repo=SIEM-Detection-Engineering&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/><br></a><br><!-- Project 2 --><br><a href="https://github.com/SatenderKumar3024/Cloud-IAM-Security"><br>  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatenderKumar3024&repo=Cloud-IAM-Security&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/><br></a><br><br></div><br><br><br/><br><br>### 🔎 SIEM Detection Engineering — Splunk & Microsoft Sentinel<br><br><div align="center"><br>  <table><br>    <tr><br>      <td><br>        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/><br>        <img src="https://img.shields.io/badge/Detections-15+-blue?style=for-the-badge" alt="Detections"/><br>        <img src="https://img.shields.io/badge/False_Positives-↓40%25-success?style=for-the-badge" alt="FP Reduction"/><br>      </td><br>    </tr><br>  </table><br></div><br><br>```<br>📁 Repository Structure<br>├── 📂 Detection-Rules/<br>│   ├── 🔴 T1110 - Brute Force Authentication<br>│   ├── 🟠 T1059.001 - Suspicious PowerShell Execution<br>│   ├── 🟡 T1068 - Privilege Escalation Attempts<br>│   ├── 🟢 T1021 - Lateral Movement Indicators<br>│   └── 🔵 T1048 - Data Exfiltration Patterns<br>├── 📂 Dashboards/<br>│   ├── 📊 Splunk-SPL-Dashboards/<br>│   └── 📊 Sentinel-KQL-Dashboards/<br>├── 📂 Threat-Hunting-Queries/<br>│   ├── 🔍 Windows-Security-Logs/<br>│   ├── 🔍 Azure-AD-Logs/<br>│   └── 🔍 AWS-CloudTrail/<br>└── 📂 Alert-Tuning-Workflows/<br>```<br><br><div align="center"><br>  <br>| MITRE ATT&CK Technique | Detection Type | Platform |<br>|:----------------------:|:--------------:|:--------:|<br>| ![T1110](https://img.shields.io/badge/T1110-Brute_Force-red?style=flat-square) | Real-time | Splunk/Sentinel |<br>| ![T1059.001](https://img.shields.io/badge/T1059.001-PowerShell-orange?style=flat-square) | Behavioral | Sentinel |<br>| ![T1068](https://img.shields.io/badge/T1068-Privilege_Escalation-yellow?style=flat-square) | Anomaly | Splunk |<br>| ![T1021](https://img.shields.io/badge/T1021-Lateral_Movement-blue?style=flat-square) | Pattern | Both |<br>| ![T1048](https://img.shields.io/badge/T1048-Exfiltration-purple?style=flat-square) | Threshold | Both |<br><br></div><br><br><p align="center"><br>  <a href="https://github.com/SatenderKumar3024/SIEM-Detection-Engineering"><br>    <img src="https://img.shields.io/badge/🔗_View_Project-FF6B6B?style=for-the-badge&logoColor=white" alt="View Project"/><br>  </a><br></p><br><br>---<br><br>### ☁️ Cloud IAM Security Implementation — AWS & Azure<br><br><div align="center"><br>  <table><br>    <tr><br>      <td><br>        <img src="https://img.shields.io/badge/S3_Buckets_Secured-50+-FF9900?style=for-the-badge" alt="S3"/><br>        <img src="https://img.shields.io/badge/Vulnerabilities-↓30%25-success?style=for-the-badge" alt="Vuln"/><br>        <img src="https://img.shields.io/badge/Zero_Trust-Implemented-0078D4?style=for-the-badge" alt="ZT"/><br>      </td><br>    </tr><br>  </table><br></div><br><br><div align="center"><br><br>| Component | Implementation | Status |<br>|:---------:|:---------------|:------:|<br>| 🪣 **AWS S3 Security** | Least-privilege IAM policies, Public access blocking | ✅ Complete |<br>| 🖥️ **Azure VM Security** | RBAC, Conditional Access policies | ✅ Complete |<br>| 🔐 **MFA Enforcement** | Privileged accounts across all platforms | ✅ Complete |<br>| 📜 **Terraform IaC** | Automated infrastructure deployment | ✅ Complete |<br>| 🐍 **Python Scripts** | Automated IAM auditing & compliance | ✅ Complete |<br>| 🔍 **Qualys Scanning** | Continuous vulnerability assessment | ✅ Active |<br>| 🏗️ **Zero Trust Architecture** | NIST 800-53 aligned design | ✅ Complete |<br><br></div><br><br><p align="center"><br>  <a href="https://github.com/SatenderKumar3024/Cloud-IAM-Security"><br>    <img src="https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logoColor=white" alt="View Project"/><br>  </a><br></p><br><br>---<br><br>### 📋 Incident Response Workflow — NIST 800-61<br><br><div align="center"><br>  <table><br>    <tr><br>      <td><br>        <img src="https://img.shields.io/badge/Framework-NIST_800--61-003366?style=for-the-badge" alt="NIST"/><br>        <img src="https://img.shields.io/badge/Playbooks-4+-success?style=for-the-badge" alt="Playbooks"/><br>        <img src="https://img.shields.io/badge/MITRE-Mapped-FF0000?style=for-the-badge" alt="MITRE"/><br>      </td><br>    </tr><br>  </table><br></div><br><br>```mermaid<br>graph LR<br>    A[🔍 Preparation] --> B[🚨 Detection & Analysis]<br>    B --> C[🛡️ Containment]<br>    C --> D[🔧 Eradication]<br>    D --> E[🔄 Recovery]<br>    E --> F[📝 Lessons Learned]<br>```<br><br><div align="center"><br><br>| 📚 Playbook | 📝 Description | 🎯 MITRE Mapping |<br>|:-----------:|:--------------|:----------------:|<br>| 🎣 **Phishing Response** | Email analysis, IOC extraction, user notification | T1566 |<br>| 🦠 **Malware Incident** | Isolation, analysis, remediation procedures | T1204 |<br>| 🚫 **Unauthorized Access** | Access review, privilege audit, remediation | T1078 |<br>| ☁️ **Cloud Security** | AWS/Azure specific incident procedures | T1190 |<br><br></div><br><br><p align="center"><br>  <a href="https://github.com/SatenderKumar3024/Incident-Response-Playbooks"><br>    <img src="https://img.shields.io/badge/🔗_View_Project-28A745?style=for-the-badge&logoColor=white" alt="View Project"/><br>  </a><br></p><br><br>---<br><br>### 🕵️ Enterprise Phishing Investigation & Threat Analysis<br><br><div align="center"><br>  <table><br>    <tr><br>      <td><br>        <img src="https://img.shields.io/badge/Analysis_Type-Forensic-DC143C?style=for-the-badge" alt="Forensic"/><br>        <img src="https://img.shields.io/badge/Tools-Wireshark-1679A7?style=for-the-badge" alt="Wireshark"/><br>        <img src="https://img.shields.io/badge/Intel-Threat_Correlation-FF6600?style=for-the-badge" alt="Intel"/><br>      </td><br>    </tr><br>  </table><br></div><br><br><div align="center"><br><br>| 🔬 Analysis Phase | 🛠️ Methodology | 📊 Output |<br>|:-----------------:|:---------------|:----------|<br>| 📧 **Email Analysis** | Header inspection, sender validation | Phishing indicators, TTPs |<br>| 🌐 **Network Traffic** | Wireshark packet analysis | C2 indicators, malicious IPs |<br>| 📁 **File Forensics** | Payload extraction, hash analysis | Hidden content, embedded code |<br>| 🔗 **IOC Correlation** | Threat intel platform integration | MITRE ATT&CK mapped findings |<br><br></div><br><br><p align="center"><br>  <a href="https://github.com/SatenderKumar3024/Threat-Analysis-Lab"><br>    <img src="https://img.shields.io/badge/🔗_View_Project-6C5CE7?style=for-the-badge&logoColor=white" alt="View Project"/><br>  </a><br></p><br><br>---<br><br><!-- Animated Divider --><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>## 📊 GitHub Analytics<br><br><div align="center"><br>  <br>  <!-- Stats Cards Row --><br>  <a href="https://github.com/SatenderKumar3024"><br>    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatenderKumar3024&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/><br>    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatenderKumar3024&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/><br>  </a><br>  <br>  <br/><br>  <br>  <!-- Streak Stats --><br>  <img src="https://github-readme-streak-stats.herokuapp.com?user=SatenderKumar3024&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F8D866&dates=888888" alt="GitHub Streak"/><br>  <br>  <br/><br>  <br>  <!-- Activity Graph --><br>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatenderKumar3024&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F85D7F" width="100%" alt="Activity Graph"/><br>  <br></div><br><br>---<br><br>## 🏆 GitHub Trophies<br><br><div align="center"><br>  <img src="https://github-profile-trophy.vercel.app/?username=SatenderKumar3024&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/><br></div><br><br>---<br><br><!-- Animated Divider --><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>## 💼 Professional Journey<br><br><div align="center"><br><br>```mermaid<br>timeline<br>    title Career Progression<br>    2017-2019 : Technical Support Specialist<br>             : Lenovo India<br>             : 500+ enterprise users supported<br>    2019-2021 : IT Support Specialist<br>             : Ideal Educare Institute<br>             : 90% SLA compliance achieved<br>    2022-2023 : IAM Analyst<br>             : Garda World<br>             : 30% provisioning time reduction<br>    2023-2025 : Security Operations Monitor<br>             : Paladin Security Group<br>             : 98% alert accuracy<br>    2025-Present : Security Operations Coordinator<br>                 : Paladin Security Group<br>                 : Leading threat detection<br>```<br><br></div><br><br><div align="center"><br><br>| 🏢 Role | 🏛️ Organization | 📅 Duration | 🌟 Key Achievement |<br>|:--------|:----------------|:------------|:-------------------|<br>| **Security Operations & IR Coordinator** | Paladin Security Group | Sep 2025 - Present | Leading integrated security operations |<br>| **Security Operations Monitor** | Paladin Security Group | Oct 2023 - Aug 2025 | 98% accuracy, 200+ alerts/month |<br>| **IAM Analyst** | Garda World | Feb 2022 - Aug 2023 | 30% provisioning time reduction |<br>| **IT Support Specialist** | Ideal Educare Institute | Apr 2019 - Aug 2021 | 90% SLA compliance |<br>| **Technical Support Specialist** | Lenovo India | Jan 2017 - Feb 2019 | 500+ users supported |<br><br></div><br><br>---<br><br>## 🎓 Education<br><br><div align="center"><br><br>| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Grade |<br>|:----------|:--------------|:--------|:---------|<br>| ![MCA](https://img.shields.io/badge/MCA-In_Progress-blue?style=flat-square) **Master of Computer Applications** | Manipal Institute of Technology | 2025-2027 | 🔄 In Progress |<br>| ![PGD](https://img.shields.io/badge/PGD-Completed-green?style=flat-square) **Post-Graduate Diploma** | Fanshawe College | 2021-2023 | GPA: 3.5 |<br>| ![BCA](https://img.shields.io/badge/BCA-Completed-green?style=flat-square) **Bachelor of Computer Applications** | MATS University | 2019-2022 | Grade: A+ |<br><br></div><br><br>---<br><br><!-- Animated Divider --><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>## 📈 Contribution Stats<br><br><div align="center"><br>  <img src="https://github-contributor-stats.vercel.app/api?username=SatenderKumar3024&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/><br></div><br><br>---<br><br>## ✍️ Random Dev Quote<br><br><div align="center"><br>  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/><br></div><br><br>---<br><br>## 🌐 Languages<br><br><div align="center"><br><br>| Language | Proficiency |<br>|:--------:|:-----------:|<br>| 🇬🇧 English | ![90%](https://img.shields.io/badge/Fluent-90%25-brightgreen?style=flat-square) |<br>| 🇮🇳 Hindi | ![100%](https://img.shields.io/badge/Native-100%25-blue?style=flat-square) |<br>| 🇮🇳 Punjabi | ![100%](https://img.shields.io/badge/Native-100%25-blue?style=flat-square) |<br>| 🇫🇷 French | ![25%](https://img.shields.io/badge/Basic_A2-25%25-yellow?style=flat-square) |<br><br></div><br><br>---<br><br><!-- Animated Divider --><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>## 📫 Let's Connect!<br><br><div align="center"><br>  <br>  <a href="https://www.linkedin.com/in/satender-kumar2430/"><br>    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br>  </a><br>  <br>  <a href="mailto:satenderkumar.analyst@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-Send_me_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br>  </a><br>  <br>  <a href="https://github.com/SatenderKumar3024"><br>    <img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br>  </a><br>  <br>  <a href="tel:+12266376900"><br>    <img src="https://img.shields.io/badge/Phone-(226)_637--6900-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/><br>  </a><br><br></div><br><br><br/><br><br><div align="center"><br>  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/><br></div><br><br><div align="center"><br>  <br>  ### 💡 *"Security is not a product, but a process."* — Bruce Schneier<br>  <br>  <br/><br>  <br>  #### 🔐 Open to Opportunities | Available for Security Consulting | Incident Response Ready<br>  <br>  <br/><br>  <br>  ![Work Authorization](https://img.shields.io/badge/🇨🇦_Work_Authorization-Authorized-success?style=for-the-badge)<br>  ![Availability](https://img.shields.io/badge/📍_Location-London,_ON-blue?style=for-the-badge)<br>  ![On Call](https://img.shields.io/badge/🚨_On_Call-Available-orange?style=for-the-badge)<br>  <br></div><br><br><br/><br><br><!-- Snake Animation --><br><div align="center"><br>  <picture><br>    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatenderKumar3024/SatenderKumar3024/output/github-contribution-grid-snake-dark.svg"><br>    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatenderKumar3024/SatenderKumar3024/output/github-contribution-grid-snake.svg"><br>    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SatenderKumar3024/SatenderKumar3024/output/github-contribution-grid-snake.svg"><br>  </picture><br></div><br><br><!-- Footer Wave --><br><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/><br><br><!-- Visit Counter --><br><div align="center"><br>  <img src="https://visitcount.itsvg.in/api?id=SatenderKumar3024&icon=6&color=11" alt="Visit Count"/><br></div><br>```<br><br>---<br><br>## 🎯 What I Changed/Improved:<br><br>### ✨ **Visual Enhancements:**<br>1. **Animated header banner** with gradient colors using capsule-render<br>2. **Typing animation** for dynamic introduction<br>3. **Colorful badges** throughout with consistent theming<br>4. **Animated dividers** between sections<br>5. **Gradient footer wave** for professional finish<br>6. **Snake contribution animation** (needs GitHub Action to work)<br><br>### 🔗 **Working Links:**<br>1. All social badges are clickable and functional<br>2. Project cards link to repository (create repos with exact names)<br>3. Certification table includes verification links<br>4. Contact buttons work (email, phone, LinkedIn)<br><br>### 📊 **Better Organization:**<br>1. YAML code block for "About Me" - cleaner presentation<br>2. Mermaid diagrams for career timeline and IR workflow<br>3. Tables for certifications, projects, and experience<br>4. Color-coded status badges<br>5. Clear section separators<br><br>### 🎨 **Color Theme:**<br>- **Primary:** Radical theme (Pink/Purple gradient)<br>- **Accent:** Yellow/Gold highlights<br>- **Background:** Dark (#0D1117)<br>- **Consistent** across all elements<br><br>### 📝 **To Make Everything Work:**<br><br>1. **Create these repositories** with exact names:<br>   - `SIEM-Detection-Engineering`<br>   - `Cloud-IAM-Security`<br>   - `Incident-Response-Playbooks`<br>   - `Threat-Analysis-Lab`<br><br>2. **For Snake Animation**, add this GitHub Action to your profile repo:<br>   ```yaml<br>   # .github/workflows/snake.yml<br>   name: Generate Snake<br>   on:<br>     schedule:<br>       - cron: "0 0 * * *"<br>     workflow_dispatch:<br>   jobs:<br>     build:<br>       runs-on: ubuntu-latest<br>       steps:<br>         - uses: Platane/snk@v3<br>           with:<br>             github_user_name: SatenderKumar3024<br>             outputs: |<br>               dist/github-contribution-grid-snake.svg<br>               dist/github-contribution-grid-snake-dark.svg?palette=github-dark<br>   ```<br><br>Would you like me to create individual README files for each project repository?
 
-### Detection Engineering & Threat Operations | SIEM | Threat Intelligence | Cloud Security | Incident Response
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satender-kumar2430/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satenderkumar.analyst@gmail.com)
-[![Location](https://img.shields.io/badge/Location-London,_ON_🇨🇦-green?style=for-the-badge)]()
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satender-singh2430/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Satender Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satenderkumar.analyst@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SatenderKumar3024&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SatenderKumar3024&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatenderKumar3024&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🛡️ About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SatenderKumar3024&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Security Operations professional with **4+ years of experience** in threat detection, incident response, and identity governance across enterprise environments. I specialize in building detection rules, hunting for threats, and securing cloud infrastructure.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-- 🔍 **Currently:** Security Operations & Incident Response Coordinator at Paladin Security Group
-- 🎯 **Focus:** Detection Engineering, Threat Hunting, Cloud Security
-- 📊 **Track Record:** Processing 200+ security alerts monthly at 98% accuracy
-- 📚 **Learning:** Advancing detection engineering and threat hunting capabilities
-- ✍️ **Thought Leadership:** Cybersecurity newsletter with 1,500+ subscribers
-
----
-
-## 🛠️ Technical Skills
-
-### SIEM & Threat Detection
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-5C2D91?style=flat-square&logo=azure-devops&logoColor=white)
-![SPL](https://img.shields.io/badge/SPL-000000?style=flat-square&logo=splunk&logoColor=white)
-
-### Cloud Security
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Scripting & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-
-### Frameworks & Methodologies
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=flat-square&logo=mitre&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST_800--53-003366?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-006400?style=flat-square)
-![CIS Controls](https://img.shields.io/badge/CIS_Controls_v8-FF6600?style=flat-square)
-
-### Tools & Platforms
-![Qualys](https://img.shields.io/badge/Qualys-FF0000?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SatenderKumar3024&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SatenderKumar3024&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📜 Certifications
-
-| Vendor | Certifications |
-|--------|---------------|
-| **Splunk** | Certified Cybersecurity Defense Analyst |
-| **Microsoft** | SC-900, AZ-900, SC-300, AZ-500 |
-| **CompTIA** | Security+, CySA+, Cloud+, Network+ |
-| **AWS** | Security – Specialty, Cloud Practitioner |
-| **ServiceNow** | Certified ServiceNow GRC |
-| **Google** | IT Support Professional, Cybersecurity Professional |
-| **Cisco** | Computer Hardware, Hardware & Operating Systems |
-
----
-
-## 🚀 Featured Projects
-
-### 🔎 [SIEM Detection Engineering — Splunk & Microsoft Sentinel](https://github.com/SatenderKumar3024)
-Detection engineering project developing SIEM dashboards, correlation rules, and threat hunting workflows.
-
-**Key Achievements:**
-- ✅ Developed **15+ detection rules** mapped to MITRE ATT&CK techniques:
-  - Brute Force Authentication (T1110)
-  - Suspicious PowerShell Execution (T1059.001)
-  - Privilege Escalation Attempts (T1068)
-  - Lateral Movement Indicators (T1021)
-  - Data Exfiltration Patterns (T1048)
-- ✅ Built security monitoring dashboards using **SPL** and **KQL**
-- ✅ Designed alert tuning workflows achieving **40% reduction** in false positives
-- ✅ Created threat hunting queries across Windows Security, Azure AD, and AWS CloudTrail
-
-**Tech Stack:** `Splunk` `Microsoft Sentinel` `SPL` `KQL` `MITRE ATT&CK`
-
----
-
-### ☁️ [Cloud IAM Security Implementation — AWS & Azure](https://github.com/SatenderKumar3024)
-Comprehensive cloud security implementation focused on IAM hardening and Zero Trust architecture.
-
-**Key Achievements:**
-- ✅ Secured **50+ AWS S3 buckets** with least-privilege IAM policies
-- ✅ Configured Azure VMs with **RBAC** and **Conditional Access** policies
-- ✅ Implemented **MFA enforcement** across privileged accounts
-- ✅ Developed **Terraform IaC** and Python scripts for automated IAM auditing
-- ✅ Achieved **30% reduction** in identified vulnerabilities via Qualys scanning
-- ✅ Designed Zero Trust architecture aligned with **NIST 800-53**
-
-**Tech Stack:** `AWS IAM` `Azure AD` `Terraform` `Python` `Qualys` `NIST 800-53`
-
----
-
-### 📋 [Incident Response Workflow Development — NIST 800-61](https://github.com/SatenderKumar3024)
-IR playbooks and investigation procedures aligned with NIST 800-61 framework.
-
-**Key Achievements:**
-- ✅ Developed comprehensive IR playbooks for:
-  - Phishing Incidents
-  - Malware Infections
-  - Unauthorized Access
-  - Cloud Security Incidents
-- ✅ Created step-by-step investigation procedures mapped to MITRE ATT&CK tactics
-- ✅ Built evidence collection templates and chain of custody documentation
-
-**Tech Stack:** `NIST 800-61` `MITRE ATT&CK` `Incident Response` `Digital Forensics`
-
----
-
-### 🕵️ [Security Threat Analysis — Enterprise Phishing Investigation](https://github.com/SatenderKumar3024)
-Threat analysis project demonstrating phishing investigation and forensic capabilities.
-
-**Key Achievements:**
-- ✅ Analyzed suspicious emails identifying phishing indicators and threat actor TTPs
-- ✅ Examined network traffic using **Wireshark** detecting C2 indicators
-- ✅ Conducted forensic file analysis extracting hidden content and embedded payloads
-- ✅ Correlated IOCs with threat intelligence sources and MITRE ATT&CK framework
-
-**Tech Stack:** `Wireshark` `Email Forensics` `Threat Intelligence` `MITRE ATT&CK`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatenderKumar3024&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatenderKumar3024&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 💼 Professional Experience Highlights
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| Security Operations & Incident Response Coordinator | Paladin Security Group | Sep 2025 - Present |
-| Security Operations Monitor | Paladin Security Group | Oct 2023 - Aug 2025 |
-| Identity and Access Management (IAM) Analyst | Garda World | Feb 2022 - Aug 2023 |
-| IT Support Specialist | Ideal Educare Institute | Apr 2019 - Aug 2021 |
-| Technical Support Specialist | Lenovo India | Jan 2017 - Feb 2019 |
-
----
-
-## 🎓 Education
-
-- **Master of Computer Applications (MCA)** — *In Progress* | Manipal Institute of Technology (2025-2027)
-- **Post-Graduate Diploma** — Digital Business & Technology Management | Fanshawe College (GPA: 3.5)
-- **Bachelor of Computer Applications (BCA)** — Information Technology | MATS University (Grade: A+)
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/satender-kumar2430/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:satenderkumar.analyst@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SatenderKumar3024&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⚡ "Security is not a product, but a process." — Bruce Schneier</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
