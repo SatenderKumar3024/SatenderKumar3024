@@ -1,5 +1,10 @@
 # 💫 About Me:
-Cybersecurity professional specializing in SIEM engineering, detection development, and threat hunting.<br><br>Currently working in security operations with a focus on building high-value detections and improving incident response.<br><br>Passionate about modern detection engineering, including behavioral analytics, cloud detections, and identity security.<br><br>Actively expanding skills in advanced threat hunting, MITRE-based detections, and automated response engineering.<br><br>Career vision: become a senior detection engineer/blue team lead contributing to enterprise threat defense and security architecture.<br><br>Long-term goal: build scalable detection content, improve SOC maturity, and design future-ready security systems.
+Cybersecurity professional specializing in SIEM engineering, detection development, and threat hunting.
+<br><br>Currently working in security operations with a focus on building high-value detections and improving incident response.
+<br><br>Passionate about modern detection engineering, including behavioral analytics, cloud detections, and identity security.
+<br><br>Actively expanding skills in advanced threat hunting, MITRE-based detections, and automated response engineering.
+<br><br>**Career vision:** become a senior detection engineer/blue team lead contributing to enterprise threat defense and security architecture.
+<br><br>**Long-term goal:** build scalable detection content, improve SOC maturity, and design future-ready security systems.
 
 
 ## 🌐 Socials:
