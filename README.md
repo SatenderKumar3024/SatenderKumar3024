@@ -20,6 +20,14 @@ Cybersecurity professional specializing in SIEM engineering, detection developme
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SatenderKumar3024&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<img width="1510" height="825" alt="Screenshot 2026-01-08 at 2 33 43 PM" src="https://github.com/user-attachments/assets/50fab7af-92c3-487f-a013-9938d4179ce3" />
+
+
+<img width="1512" height="828" alt="Screenshot 2026-01-08 at 2 26 17 PM" src="https://github.com/user-attachments/assets/46d06707-805e-49da-9c33-437249c635b1" />
+<img width="1306" height="733" alt="Screenshot 2026-01-08 at 2 25 03 PM" src="https://github.com/user-attachments/assets/2ce40c3d-41aa-4992-af33-bb6c5d0b41c0" />
+
+<img width="1512" height="826" alt="Screenshot 2026-01-08 at 2 26 33 PM" src="https://github.com/user-attachments/assets/3db38a03-e6c0-42a4-b42c-c76f0255ad47" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
